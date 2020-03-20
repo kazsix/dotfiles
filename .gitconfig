@@ -1,6 +1,6 @@
 [user]
         name = Kazushi Nakatsuka
-        email = k-nakatsuka@paperboy.co.jp
+        email = ka.nakatsuka@gmail.com
 [color]
         diff = auto
         status = auto
@@ -20,3 +20,5 @@
         pus = push
         puh = push
         pl = !git pull && git submodule update --init
+[ghq]
+	root = ~/src
